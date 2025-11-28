@@ -246,5 +246,5 @@ radgraph.RadGraph(model="modern-radgraph-xl")
 
 ## Contact
 
-**Your Name** — [muhammedtalha81@gmail.com](mailto:muhammedtalha81@gmail.com)
+[muhammedtalha81@gmail.com](mailto:muhammedtalha81@gmail.com)
 GitHub: [https://github.com/cm-talha](https://github.com/cm-talha)
