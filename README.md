@@ -186,7 +186,7 @@ L_total = L_cls + α1 L_pos + α2 L_sem
 
 ---
 
-## Results (Demo Subset)
+## Results
 
 | Entity        | AUC      |
 | ------------- | -------- |
